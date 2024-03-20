@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm od8m</h1>
-<h3 align="center">A passionate frontend developer from germany</h3>
+<h3 align="center">A passionate frontend developer from Germany</h3>
 
 <p align="left"> <a href="https://twitter.com/od8m_" target="blank"><img src="https://img.shields.io/twitter/follow/od8m_?logo=twitter&style=for-the-badge" alt="od8m_" /></a> </p>
 

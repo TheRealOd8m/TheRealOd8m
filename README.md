@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Fake_Data arrays for string decryption**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **kernel**
 
 - 💬 Ask me about **Vulnerability testing**
 
